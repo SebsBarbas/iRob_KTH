@@ -1,0 +1,8 @@
+prefix=/home/s/s/ssbl/catkin_ws/devel
+
+Name: rqt_joint_trajectory_controller
+Description: Description of rqt_joint_trajectory_controller
+Version: 0.3.14
+Cflags: 
+Libs: -L/home/s/s/ssbl/catkin_ws/devel/lib 
+Requires: 

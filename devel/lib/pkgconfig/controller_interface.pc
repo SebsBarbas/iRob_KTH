@@ -1,0 +1,8 @@
+prefix=/home/s/s/ssbl/catkin_ws/devel
+
+Name: controller_interface
+Description: Description of controller_interface
+Version: 0.2.7
+Cflags: -I/home/s/s/ssbl/catkin_ws/src/robi_final_project/ros_control/controller_interface/include
+Libs: -L/home/s/s/ssbl/catkin_ws/devel/lib 
+Requires: roscpp hardware_interface pluginlib

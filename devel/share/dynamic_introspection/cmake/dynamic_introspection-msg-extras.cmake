@@ -1,0 +1,2 @@
+set(dynamic_introspection_MESSAGE_FILES "/home/s/s/ssbl/catkin_ws/src/robi_final_project/dynamic_introspection/msg/BoolParameter.msg;/home/s/s/ssbl/catkin_ws/src/robi_final_project/dynamic_introspection/msg/IntrospectionMsg.msg;/home/s/s/ssbl/catkin_ws/src/robi_final_project/dynamic_introspection/msg/DoubleParameter.msg;/home/s/s/ssbl/catkin_ws/src/robi_final_project/dynamic_introspection/msg/IntParameter.msg;/home/s/s/ssbl/catkin_ws/src/robi_final_project/dynamic_introspection/msg/MarkerParameter.msg")
+set(dynamic_introspection_SERVICE_FILES "")

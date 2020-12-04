@@ -1,0 +1,8 @@
+prefix=/home/s/s/ssbl/catkin_ws/devel
+
+Name: tiago_moveit_config
+Description: Description of tiago_moveit_config
+Version: 0.0.15
+Cflags: 
+Libs: -L/home/s/s/ssbl/catkin_ws/devel/lib 
+Requires: 

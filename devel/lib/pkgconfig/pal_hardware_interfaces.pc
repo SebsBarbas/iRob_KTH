@@ -1,0 +1,8 @@
+prefix=/home/s/s/ssbl/catkin_ws/devel
+
+Name: pal_hardware_interfaces
+Description: Description of pal_hardware_interfaces
+Version: 0.0.3
+Cflags: -I/home/s/s/ssbl/catkin_ws/src/robi_final_project/pal_hardware_interfaces/include
+Libs: -L/home/s/s/ssbl/catkin_ws/devel/lib 
+Requires: hardware_interface

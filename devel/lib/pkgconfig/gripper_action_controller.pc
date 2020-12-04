@@ -1,0 +1,8 @@
+prefix=/home/s/s/ssbl/catkin_ws/devel
+
+Name: gripper_action_controller
+Description: Description of gripper_action_controller
+Version: 0.3.14
+Cflags: -I/home/s/s/ssbl/catkin_ws/src/robi_final_project/ros_controllers/gripper_action_controller/include
+Libs: -L/home/s/s/ssbl/catkin_ws/devel/lib -lgripper_action_controller
+Requires: actionlib cmake_modules controller_interface control_msgs hardware_interface realtime_tools trajectory_msgs

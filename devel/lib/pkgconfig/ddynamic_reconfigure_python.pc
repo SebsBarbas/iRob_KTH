@@ -1,0 +1,8 @@
+prefix=/home/s/s/ssbl/catkin_ws/devel
+
+Name: ddynamic_reconfigure_python
+Description: Description of ddynamic_reconfigure_python
+Version: 0.0.1
+Cflags: 
+Libs: -L/home/s/s/ssbl/catkin_ws/devel/lib 
+Requires: 

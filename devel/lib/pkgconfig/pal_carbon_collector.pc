@@ -1,0 +1,8 @@
+prefix=/home/s/s/ssbl/catkin_ws/devel
+
+Name: pal_carbon_collector
+Description: Description of pal_carbon_collector
+Version: 1.2.1
+Cflags: 
+Libs: -L/home/s/s/ssbl/catkin_ws/devel/lib 
+Requires: 

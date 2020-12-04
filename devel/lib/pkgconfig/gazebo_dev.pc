@@ -1,0 +1,8 @@
+prefix=/home/s/s/ssbl/catkin_ws/devel
+
+Name: gazebo_dev
+Description: Description of gazebo_dev
+Version: 2.6.8
+Cflags: 
+Libs: -L/home/s/s/ssbl/catkin_ws/devel/lib 
+Requires: 

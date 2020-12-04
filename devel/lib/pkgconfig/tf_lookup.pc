@@ -1,0 +1,8 @@
+prefix=/home/s/s/ssbl/catkin_ws/devel
+
+Name: tf_lookup
+Description: Description of tf_lookup
+Version: 0.0.1
+Cflags: -I/home/s/s/ssbl/catkin_ws/devel/include -I/home/s/s/ssbl/catkin_ws/src/robi_final_project/tf_lookup/include
+Libs: -L/home/s/s/ssbl/catkin_ws/devel/lib 
+Requires: actionlib_msgs geometry_msgs message_runtime tf

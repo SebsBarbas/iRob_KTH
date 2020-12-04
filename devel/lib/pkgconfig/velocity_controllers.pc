@@ -1,0 +1,8 @@
+prefix=/home/s/s/ssbl/catkin_ws/devel
+
+Name: velocity_controllers
+Description: Description of velocity_controllers
+Version: 0.3.14
+Cflags: -I/home/s/s/ssbl/catkin_ws/src/robi_final_project/ros_controllers/velocity_controllers/include
+Libs: -L/home/s/s/ssbl/catkin_ws/devel/lib -lvelocity_controllers
+Requires: angles control_msgs control_toolbox controller_interface forward_command_controller realtime_tools urdf

@@ -1,0 +1,8 @@
+prefix=/home/s/s/ssbl/catkin_ws/devel
+
+Name: controller_manager_tests
+Description: Description of controller_manager_tests
+Version: 0.2.7
+Cflags: -I/home/s/s/ssbl/catkin_ws/src/robi_final_project/ros_control/controller_manager_tests/include
+Libs: -L/home/s/s/ssbl/catkin_ws/devel/lib -lcontroller_manager_tests
+Requires: controller_manager controller_interface

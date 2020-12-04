@@ -1,0 +1,8 @@
+prefix=/home/s/s/ssbl/catkin_ws/devel
+
+Name: play_motion_msgs
+Description: Description of play_motion_msgs
+Version: 0.4.7
+Cflags: -I/home/s/s/ssbl/catkin_ws/devel/include
+Libs: -L/home/s/s/ssbl/catkin_ws/devel/lib 
+Requires: message_runtime actionlib_msgs

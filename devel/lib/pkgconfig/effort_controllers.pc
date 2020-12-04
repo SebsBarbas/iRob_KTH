@@ -1,0 +1,8 @@
+prefix=/home/s/s/ssbl/catkin_ws/devel
+
+Name: effort_controllers
+Description: Description of effort_controllers
+Version: 0.3.14
+Cflags: -I/home/s/s/ssbl/catkin_ws/src/robi_final_project/ros_controllers/effort_controllers/include
+Libs: -L/home/s/s/ssbl/catkin_ws/devel/lib -leffort_controllers
+Requires: angles controller_interface control_msgs control_toolbox forward_command_controller realtime_tools urdf

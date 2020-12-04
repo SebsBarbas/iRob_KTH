@@ -1,0 +1,8 @@
+prefix=/home/s/s/ssbl/catkin_ws/devel
+
+Name: pal_walking_msgs
+Description: Description of pal_walking_msgs
+Version: 0.12.13
+Cflags: -I/home/s/s/ssbl/catkin_ws/devel/include
+Libs: -L/home/s/s/ssbl/catkin_ws/devel/lib 
+Requires: geometry_msgs humanoid_nav_msgs message_runtime

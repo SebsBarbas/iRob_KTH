@@ -1,0 +1,8 @@
+prefix=/home/s/s/ssbl/catkin_ws/devel
+
+Name: dynamic_introspection
+Description: Description of dynamic_introspection
+Version: 1.0.11
+Cflags: -I/home/s/s/ssbl/catkin_ws/devel/include -I/home/s/s/ssbl/catkin_ws/src/robi_final_project/dynamic_introspection/include -I/usr/include/eigen3
+Libs: -L/home/s/s/ssbl/catkin_ws/devel/lib -ldynamic_introspection
+Requires: roscpp message_generation rosbag pal_statistics visualization_msgs backward_ros std_msgs

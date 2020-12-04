@@ -1,0 +1,8 @@
+prefix=/home/s/s/ssbl/catkin_ws/devel
+
+Name: pal_statistics
+Description: Description of pal_statistics
+Version: 1.2.1
+Cflags: -I/home/s/s/ssbl/catkin_ws/src/robi_final_project/pal_statistics/pal_statistics/include
+Libs: -L/home/s/s/ssbl/catkin_ws/devel/lib -lpal_statistics
+Requires: pal_statistics_msgs roscpp

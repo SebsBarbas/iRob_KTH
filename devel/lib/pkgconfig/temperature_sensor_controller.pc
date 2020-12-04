@@ -1,0 +1,8 @@
+prefix=/home/s/s/ssbl/catkin_ws/devel
+
+Name: temperature_sensor_controller
+Description: Description of temperature_sensor_controller
+Version: 0.3.14
+Cflags: -I/home/s/s/ssbl/catkin_ws/devel/include -I/home/s/s/ssbl/catkin_ws/src/robi_final_project/ros_controllers/temperature_sensor_controller/include
+Libs: -L/home/s/s/ssbl/catkin_ws/devel/lib -ltemperature_sensor_controller
+Requires: realtime_tools hardware_interface pluginlib controller_interface sensor_msgs pal_hardware_interfaces

@@ -1,0 +1,2 @@
+set(pal_motion_model_msgs_MESSAGE_FILES "/home/s/s/ssbl/catkin_ws/src/robi_final_project/pal_msgs/pal_motion_model_msgs/msg/MotionModelList.msg;/home/s/s/ssbl/catkin_ws/src/robi_final_project/pal_msgs/pal_motion_model_msgs/msg/MotionModelMap.msg;/home/s/s/ssbl/catkin_ws/src/robi_final_project/pal_msgs/pal_motion_model_msgs/msg/MotionModel.msg")
+set(pal_motion_model_msgs_SERVICE_FILES "/home/s/s/ssbl/catkin_ws/src/robi_final_project/pal_msgs/pal_motion_model_msgs/srv/GetMotionMap.srv")
